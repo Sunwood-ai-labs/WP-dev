@@ -3,7 +3,7 @@ title: Git it Write の設定と使い方完全ガイド
 post_status: publish
 post_excerpt: GitHub の Markdown ファイルを push するだけで WordPress に自動投稿できるプラグイン「Git it Write」の導入と設定方法を詳しく解説。Webhook
   やトークン設定、トラブル対処まで完全ガイドします。
-featured_image: wp-content/uploads/2025/07/2025-07-12-164651.png
+featured_image: https://hamaruki.com/wp-content/uploads/2025/08/2025-08-23-141903.png
 taxonomy:
   category:
   - wordpress
