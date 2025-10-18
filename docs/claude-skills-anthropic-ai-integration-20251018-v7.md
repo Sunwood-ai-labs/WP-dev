@@ -2,7 +2,7 @@
 title: Anthropicが発表した「Claude Skills」：AIをあなたの業務に最適化する新時代の機能
 post_status: publish
 post_excerpt: Anthropicが2025年10月に発表した「Claude Skills」は、AIを業務に最適化する新機能です。スキルごとに指示やリソースをまとめ、必要時に自動ロード・切替が可能。企業や開発者が自社フローに合わせてClaudeを拡張できる仕組みで、X上でも大きな反響を呼んでいます。
-featured_image: https://raw.githubusercontent.com/Sunwood-ai-labs/oasis-sync/main/images/thumbnails/claude-skills-anthropic-ai-integration-20251018-v5.png
+featured_image: https://raw.githubusercontent.com/Sunwood-ai-labs/oasis-sync/main/images/thumbnails/claude-skills-anthropic-ai-integration-20251018-v7.png
 taxonomy:
   category:
   - ai
@@ -51,7 +51,6 @@ Anthropicのエンジニアリングブログによると、スキルは次の�
 | **instructions.md** | Claudeがタスクを実行するためのプロンプトテンプレート |
 | **resources/** | 画像、PDF、コードスニペットなどの参照ファイル群 |
 | **code/** | PythonやJavaScriptの補助スクリプト（オプション） |
-
 
 ### 応用例
 
